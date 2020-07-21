@@ -1,15 +1,15 @@
-## Desenvolvedor: Marcelo Machado da Silva
-## Graduação em análise e desenvolvimento de sistemas
-## MBA em Gestão empresarial
+	Desenvolvedor: Marcelo Machado da Silva
+	Graduação em análise e desenvolvimento de sistemas
+	MBA em Gestão empresarial
 
 ## Projeto Desafio LEO Learning
 
-###### Linguagens utilizadas: Php, JavaScript
-###### Marcação/estilo: Html, Css
-###### Banco de dados: MySQL
-###### Biblioteca: Jquery
-###### Framework: Nenhum
-###### Automação de tarefas: Gulp
+	Linguagens utilizadas: Php, JavaScript
+	Marcação/estilo: Html, Css
+	Banco de dados: MySQL
+	Biblioteca: Jquery
+	Framework: Nenhum
+	Automação de tarefas: Gulp
 
 
 ## Descrição do projeto
@@ -28,7 +28,7 @@
 
 ###### Arquivo controle.php realiza a conexão com banco de dados, consulta e adição dos cursos, também retorna as informações inseridas em Html (amostra dos curso, e conteúdo programático dos cursos).
 
-######  Processo de requisição com banco de dados, exibe o resultado na tela sem necessidade de recarregamento da página.
+###### Processo de requisição com banco de dados, exibe o resultado na tela sem necessidade de recarregamento da página.
 
 ###### Processo de automação de tarefas: 
 	Imagens
@@ -49,3 +49,13 @@
 		Firefox e chrome
 	Dispositivo móveis
 		Simulador dos navegadores Firefox e chrome
+
+
+###### Dependências Gulp
+	autoprefixer: npm install gulp-autoprefixer --save-dev
+	gulp-concat: npm install gulp-concat --save-dev
+	gulp-htmlmin: npm install gulp-htmlmin --save-dev
+	gulp-imagemin: npm install gulp-imagemin --save-dev
+	gulp-minify-css: npm install gulp-minify-css --save-dev
+	gulp-uglify: npm install gulp-uglify --save-dev
+	gulp-watch: npm install --save-dev gulp-watch
