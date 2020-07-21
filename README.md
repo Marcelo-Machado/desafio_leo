@@ -13,24 +13,24 @@
 
 
 ## Descrição do projeto
-###### Layout da tela inicial desenvolvida com Html, Css
+###### - Layout da tela inicial desenvolvida com Html, Css
 
-###### Slides
+###### - Slides
 	layout utilizado Html, Css.
 	Ações dos slides utilizado JavaScript.
 	Carregamento da div (cursos) com as informações do banco de dados, utilizando requisição JavaScript com Php.
 
-###### Banner de abertura desenvolvido somente com JavaScript, sem uso direto do Html.
+###### - Banner de abertura desenvolvido somente com JavaScript, sem uso direto do Html.
 
-###### Cookie de controle (em JavaScript) para exibir o banner somente no primeiro acesso.
+###### - Cookie de controle (em JavaScript) para exibir o banner somente no primeiro acesso.
 
-###### Comunicação com banco de dados realizada através de requisição em JavaScript com arquivo Php (controle.php).
+###### - Comunicação com banco de dados realizada através de requisição em JavaScript com arquivo Php (controle.php).
 
-###### Arquivo controle.php realiza a conexão com banco de dados, consulta e adição dos cursos, também retorna as informações inseridas em Html (amostra dos curso, e conteúdo programático dos cursos).
+###### - Arquivo controle.php realiza a conexão com banco de dados, consulta e adição dos cursos, também retorna as informações inseridas em Html (amostra dos curso, e conteúdo programático dos cursos).
 
-###### Processo de requisição com banco de dados, exibe o resultado na tela sem necessidade de recarregamento da página.
+###### - Processo de requisição com banco de dados, exibe o resultado na tela sem necessidade de recarregamento da página.
 
-###### Processo de automação de tarefas: 
+###### - Processo de automação de tarefas: 
 	Imagens
 		redução de tamanho.
 	Css
@@ -44,14 +44,14 @@
 		Remoção type="text/css" de style linktags.
 		Remoção espaço em branco
 
-###### Testes
+###### - Testes
 	Navegador
 		Firefox e chrome
 	Dispositivo móveis
 		Simulador dos navegadores Firefox e chrome
 
 
-###### Dependências Gulp
+###### - - Dependências Gulp
 	autoprefixer: npm install gulp-autoprefixer --save-dev
 	gulp-concat: npm install gulp-concat --save-dev
 	gulp-htmlmin: npm install gulp-htmlmin --save-dev
@@ -59,3 +59,16 @@
 	gulp-minify-css: npm install gulp-minify-css --save-dev
 	gulp-uglify: npm install gulp-uglify --save-dev
 	gulp-watch: npm install --save-dev gulp-watch
+
+
+
+
+
+
+
+
+
+
+
+
+
