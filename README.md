@@ -51,7 +51,7 @@
 		Simulador dos navegadores Firefox e chrome
 
 
-###### - - Dependências Gulp
+###### - Dependências Gulp
 	autoprefixer: npm install gulp-autoprefixer --save-dev
 	gulp-concat: npm install gulp-concat --save-dev
 	gulp-htmlmin: npm install gulp-htmlmin --save-dev
